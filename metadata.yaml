@@ -1,0 +1,30 @@
+_repo: Moyens-infaillibles-de-devenir-riche_73946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nossy, Antoine de
+    gutenberg_agent_id: '57282'
+    url: http://www.gutenberg.org/2009/agents/57282
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73946'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5576864p
+pgterms:marc905: 20240302072620nossy
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bÉdition presse française, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcsh 'Success in business'
+- !lcc 'HF'
+- GITenberg
+title: Moyens infaillibles de devenir riche
+url: http://www.gutenberg.org/ebooks/73946
